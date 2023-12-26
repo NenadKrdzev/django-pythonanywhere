@@ -9,3 +9,9 @@ The home page as you can see is split in three sections:
 For the backend of the project, I used Python Django, and for the frontend, I utilized Bootstrap.
 ## Check it out here:
   https://nenadkrzhev.pythonanywhere.com/
+## Run it locally:
+1. Clone the repo.
+2. Navigate to the project destination and open a command prompt.
+3. Next write this code `>python manage.py runserver`
+4. At last in a browser of your choice open the IP address that is written in the command prompt.
+5. Enjoy!
